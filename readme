@@ -1,0 +1,8 @@
+1. go to whatsapp directory
+2. run python3 manage.py runserver
+3. run ./ngrok http 8000
+4. type in browser '<ngrok URL>/send_msg/login/'
+
+firefox will be opened and
+5. click 'whatsapp web' in your mobile and scan the QR code
+6. If any contact sends message that message will be echo back    
